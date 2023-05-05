@@ -4,7 +4,9 @@ Enigma Zone
 Looking for videos, audios, software, compressed files, ebooks, or pictures? Our tool makes it easy to find what you're looking for. With more specific results and direct links, you can quickly access the content you need.
 
 <br>
+<h3>
 "Search smarter, not harder. Find what you need with our Tool."
+<h3>
 <br>
 <hr>
 <h2>Demo</h2>
