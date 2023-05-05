@@ -12,8 +12,7 @@ Looking for videos, audios, software, compressed files, ebooks, or pictures? Our
 
 https://avijit-roy.github.io/Enigma-Zone/index.html
 
-![](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator.io/main/screenshots/Screenshot_20221126_093850.png)
-![](https://raw.githubusercontent.com/Avijit-roy/Numeric_translator.io/main/screenshots/Screenshot_20221126_094006.png)
+![](https://github.com/Avijit-roy/Enigma-Zone/blob/main/Screeshot/Screenshot%202023-05-05%20201505.png)
 
 
 
