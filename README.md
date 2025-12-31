@@ -51,7 +51,7 @@ To run locally:
 
 ## About
 
-For more information about the project, visit the [About page](about.html).
+For more information about the project, visit the [About page](https://avijit-roy.github.io/Enigma-Zone/about.html).
 
 ## License
 
